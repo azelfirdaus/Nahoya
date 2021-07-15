@@ -17,7 +17,7 @@
 • `{i}playvc`
     Start Voice Chat Bot to receive Commands.
 
-• `{i}vcinvite`
+• `{i}vcinv`
     Invite all members of group in Group Call.
     (You must be joined)
 
